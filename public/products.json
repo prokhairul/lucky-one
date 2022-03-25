@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "name": "AirPods Pro",
+    "price": 249,
+    "img": "https://thumbs2.imgbox.com/eb/77/u2rPnaUO_t.jpg"
+  },
+  {
+    "id": "2",
+    "name": "iMac 24 inch",
+    "price": 1299,
+    "img": "https://thumbs2.imgbox.com/6c/89/uDsyzmmk_t.jpg"
+  },
+  {
+    "id": "3",
+    "name": "iPad Air 4",
+    "price": 599,
+    "img": "https://thumbs2.imgbox.com/09/e6/LJB8Vfeh_t.jpg"
+  },
+  {
+    "id": "4",
+    "name": "iPad Pro",
+    "price": 799,
+    "img": "https://thumbs2.imgbox.com/eb/88/iXShxbsV_t.jpg"
+  },
+  {
+    "id": "5",
+    "name": "iPhone 11",
+    "price": 499,
+    "img": "https://thumbs2.imgbox.com/11/0d/xW8sevUi_t.jpg"
+  },
+  {
+    "id": "6",
+    "name": "iPhone 12",
+    "price": 599,
+    "img": "https://thumbs2.imgbox.com/6b/da/t65gzzqn_t.jpg"
+  },
+  {
+    "id": "7",
+    "name": "iPhone 13 Pro",
+    "price": 999,
+    "img": "https://thumbs2.imgbox.com/9e/5b/uKWxtZcR_t.jpg"
+  },
+  {
+    "id": "8",
+    "name": "iPhone SE 2022",
+    "price": 499,
+    "img": "https://thumbs2.imgbox.com/c2/8f/n8SzTF13_t.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Mac Studio",
+    "price": 1999,
+    "img": "https://thumbs2.imgbox.com/24/63/IK90holE_t.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Macbook Pro 13",
+    "price": 1299,
+    "img": "https://thumbs2.imgbox.com/52/cf/zSRuqmPd_t.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Apple Watch SE",
+    "price": 399,
+    "img": "https://thumbs2.imgbox.com/61/b8/1z56pMty_t.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Apple Watch Series 7",
+    "price": 499,
+    "img": "https://thumbs2.imgbox.com/42/9a/F7t8Fe49_t.jpg"
+  }
+]

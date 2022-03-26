@@ -1,0 +1,24 @@
+.card img{
+    max-width: 230px !important;
+    max-height: 190px !important;
+    margin-top: 5px;
+
+}
+
+.card{
+    align-items: center !important;
+    min-height: 350px;
+}
+
+.card-footer{
+
+    background-color: #f8f5f5 !important;
+    border: none;
+    border-radius: 5px;
+    width: 272px;
+}
+
+.btn{
+    min-width: 180px;
+    background-color: #483d8b;
+}

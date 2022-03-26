@@ -12,13 +12,22 @@
 
 .card-footer{
 
-    background-color: #f8f5f5 !important;
+    background-color: #f5f5dc !important;
     border: none;
     border-radius: 5px;
     width: 272px;
 }
 
 .btn{
-    min-width: 180px;
-    background-color: #483d8b;
-}
+    min-width: 240px;
+    background-color: #f5f5dc;
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+    border: none;
+ }
+
+ .btn:hover{
+    background-color: #fffff0;
+    color: black;
+ }

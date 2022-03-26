@@ -3,17 +3,12 @@ import './Shop.css'
 import Product from '../Product/Product'
 
 const Shop = () => {
-
     const [products, setProducts] = useState([]);
 
-
     useEffect(() => {
-
         fetch('products.json')
             .then(res => res.json())
             .then(data => setProducts(data))
-
-
     }, []);
 
 
@@ -26,7 +21,6 @@ const Shop = () => {
                     <h1>Hello</h1>
 
                 </div>
-
                 <div className="products-container col-8">
                     {
                         products.map(product => <Product
@@ -36,7 +30,6 @@ const Shop = () => {
 
                         ></Product>)
                     }
-
                 </div>
             </div>
         </div>
